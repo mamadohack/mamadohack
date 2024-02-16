@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kermadi Mohammed
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently Building Projects with Next Js
 - 📫 How to reach me : kermadimohammed7@gmail.com
 - ⚡ Fun fact: i know that my code is garbage
 
